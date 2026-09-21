@@ -12,7 +12,7 @@
 
 ###
 
-<h2 align="center">Hello World I'm HazelnutDev 🙌</h2>
+<h2 align="center">Hello World I'm BARSKUY 🙌</h2>
 
 ###
 
